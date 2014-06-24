@@ -1,4 +1,3 @@
-Training
-========
+# TEST Training TEXT FILE
 
-TEST Training Repo
+YAY
